@@ -1,0 +1,12 @@
+{
+  "name": "Own Your Goals",
+  "short_name": "Own It",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#05090c",
+  "theme_color": "#05090c",
+  "icons": [
+    { "src": "i.ab7808907b.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
