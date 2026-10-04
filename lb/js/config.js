@@ -1,0 +1,1 @@
+window.SWIM_CONFIG = { scriptUrl: 'https://script.google.com/macros/s/AKfycbzFosZsgNUcCYlT6Bt9bljTn5n0XQnbyZRgdBNx_Ndqe0Updx4s0nthxh3zkHSLHoXb/exec', clientId: '880930598757-rdseu7advnsbmmla6j2va4khmusn4an8.apps.googleusercontent.com' };
