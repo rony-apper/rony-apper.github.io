@@ -1,1 +1,1 @@
-window.SWIM_CONFIG = { scriptUrl: 'https://script.google.com/macros/s/AKfycbzFosZsgNUcCYlT6Bt9bljTn5n0XQnbyZRgdBNx_Ndqe0Updx4s0nthxh3zkHSLHoXb/exec', clientId: '880930598757-rdseu7advnsbmmla6j2va4khmusn4an8.apps.googleusercontent.com' };
+window.SWIM_CONFIG = { scriptUrl: 'https://script.google.com/macros/s/AKfycbz6FaeWYxfLWbugUpdbM7zXYfo9_FBYkdDEAa6FCjj-J8zVp5pqNyX_LU6Q0wWxGcu9/exec', clientId: '407834813919-vra1fs6blvl5b5k4dgjora4miflkihj1.apps.googleusercontent.com' };
